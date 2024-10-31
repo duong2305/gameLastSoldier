@@ -1,0 +1,26 @@
+#These do nothing, #denote comments
+!!VICTORY
+After all, there is no monster on earth
+He fought all his life
+But at what cost
+!CREATIVE DIRECTOR
+VU HOANG HAI
+HOANG QUY DUONG
+!EXECUTIVE PRODUCER
+HOANG QUY DUONG
+!GAME DIRECTOR
+VU HOANG HAI
+!LEVEL DESIGN
+Scene 1    Hoang Quy Duong 2021600607
+Scene 2    Nguyen Van Manh 2020605856
+Scene 3    Ngo Huy Hieu 2020606082
+Scene 4    Vu Hoang Hai 2021600748
+!GAME DESIGN
+VFX Manager       Hoang Quy Duong
+Animation          Vu Hoang Hai
+Map Design         Nguyen Van Manh
+				      Ngo Huy Hieu
+UI Designer        Vu Hoang Hai
+Music              Hoang Quy Duong
+Progress report  Nguyen Van Manh
+				     Ngo Huy Hieu
